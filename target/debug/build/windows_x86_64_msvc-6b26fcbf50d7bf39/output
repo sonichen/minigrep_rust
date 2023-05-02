@@ -1,0 +1,1 @@
+cargo:rustc-link-search=native=D:\software\Environment\Rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\windows_x86_64_msvc-0.48.0\lib
